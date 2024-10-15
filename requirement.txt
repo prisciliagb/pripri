@@ -1,0 +1,5 @@
+mistralai
+streamlit
+pandas
+matplotlib
+scikit-learn
